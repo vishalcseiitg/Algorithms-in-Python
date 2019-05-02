@@ -1,7 +1,7 @@
 # Python program for implementation of MergeSort 
 def mergeSort(arr): 
     if len(arr) >1: 
-        mid = len(arr)//2 #Finding the mid of the array 
+        mid = len(arr)//2 #Finding the mid of the arrays
         L = arr[:mid] # Dividing the array elements  
         R = arr[mid:] # into 2 halves 
   
