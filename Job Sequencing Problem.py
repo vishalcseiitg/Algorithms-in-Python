@@ -2,7 +2,7 @@
 # job sequence from a given array 
 # of jobs with deadlines and profits 
   
-# function to schedule the jobs take 2  
+# function to schedule the jobs take 2:
 # arguments array and no of jobs to schedule 
 def printJobScheduling(arr, t): 
   
