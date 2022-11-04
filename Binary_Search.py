@@ -1,4 +1,4 @@
-# A utility function to search a given key in BST 
+# A utility function to search a given key in BST.
 def search(root,key): 
       
     # Base Cases: root is null or key is present at root 
